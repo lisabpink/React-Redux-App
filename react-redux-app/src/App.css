@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.MuiCardContent-root {
+  padding: 24px;
+background-color: aquamarine;
+width:50%;
+height: 800px;
+}
+
